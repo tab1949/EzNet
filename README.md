@@ -1,1 +1,1 @@
-# EzNet - Build net application easily.
+# EzNet - Build network application easily.
